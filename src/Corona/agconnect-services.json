@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"xxxxxxxxx",
+		"cp_id":"xxxxxxxxx",
+		"product_id":"xxxxxxxxx",
+		"client_id":"xxxxxxxxx",
+		"client_secret":"xxxxxxxxx",
+		"project_id":"xxxxxxxxx",
+		"app_id":"xxxxxxxxx",
+		"api_key":"xxxxxxxxx",
+		"package_name":"com.xxxx.xxxx"
+	},
+	"configuration_version":"1.0"
+}
