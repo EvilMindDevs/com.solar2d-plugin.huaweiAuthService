@@ -1,6 +1,6 @@
-# Huawei Drive Kit Solar2d Plugin
+# Huawei Auth Service Solar2d Plugin
 
-This plugin was created based on Huawei Auth Service. Please [Drive Kit](https://developer.huawei.com/consumer/en/agconnect/auth-service/) for detailed information. 
+This plugin was created based on Huawei Auth Service. Please [Auth Service](https://developer.huawei.com/consumer/en/agconnect/auth-service/) for detailed information. 
 
 In order to use this plugin, you must first create an account from developer.huawei.com. And after logging in with your account, create a project in the huawei console in order to use HMS kits.
 
@@ -468,7 +468,7 @@ end)
 
 
 ## References
-HMS Drive Kit [Check](https://developer.huawei.com/consumer/en/agconnect/auth-service/)
+HMS Auth Service [Check](https://developer.huawei.com/consumer/en/agconnect/auth-service/)
 
 ## License
 MIT
